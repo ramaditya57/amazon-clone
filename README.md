@@ -1,20 +1,20 @@
 <!-- Things related to my project -->
-
+<br>
 **Project Description: Front-End Clone of Amazon.com**
 <br>
 For my front-end project, I undertook the challenge of replicating the iconic home page of Amazon.com, the world's largest online retailer. With a focus solely on the front-end, I meticulously crafted a visually compelling clone of Amazon's home page.
 <br>
 **Key Features and Components:**
 <br>
-1. **Header Section:** Emulating Amazon's recognizable header, I implemented a navigation bar with links to various departments, search functionality, and user account options. The header maintains Amazon's branding and provides seamless access to different sections of the website.
+**Header Section:** Emulating Amazon's recognizable header, I implemented a navigation bar with links to various departments, search functionality, and user account options. The header maintains Amazon's branding and provides seamless access to different sections of the website.
 <br>
-2. **Hero Banner:** I recreated Amazon's dynamic hero banner, featuring captivating imagery and promotional content. The banner showcases featured products, deals of the day, or seasonal offers, enticing users to explore further.
+**Hero Banner:** I recreated Amazon's dynamic hero banner, featuring captivating imagery and promotional content. The banner showcases featured products, deals of the day, or seasonal offers, enticing users to explore further.
 <br>
-3. **Product Categories:** Mirroring Amazon's extensive product categories, I incorporated visually appealing tiles or dropdown menus showcasing popular departments and product lines. These categories serve as entry points for users to discover products based on their interests.
+**Product Categories:** Mirroring Amazon's extensive product categories, I incorporated visually appealing tiles or dropdown menus showcasing popular departments and product lines. These categories serve as entry points for users to discover products based on their interests.
 <br>
-4. **Deals and Promotions:** To emulate Amazon's emphasis on deals and promotions, I integrated sections highlighting current offers, best sellers, or trending products. These sections dynamically update to reflect real-time promotions, enticing users with attractive deals.
+**Deals and Promotions:** To emulate Amazon's emphasis on deals and promotions, I integrated sections highlighting current offers, best sellers, or trending products. These sections dynamically update to reflect real-time promotions, enticing users with attractive deals.
 <br>
-5. **Footer:** Replicating Amazon's comprehensive footer, I included links to important pages such as About Us, Careers, Help, and Contact. Additionally, I integrated social media icons and other relevant links for enhanced connectivity.
+**Footer:** Replicating Amazon's comprehensive footer, I included links to important pages such as About Us, Careers, Help, and Contact. Additionally, I integrated social media icons and other relevant links for enhanced connectivity.
 <br>
 **Technologies Used:**
 <br>
