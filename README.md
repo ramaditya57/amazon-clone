@@ -1,5 +1,5 @@
 <!-- Things related to my project -->
-**Project Description: Front-End Clone of Amazon.com**
+<b>Project Description: Front-End Clone of Amazon.com<b>
 <br> <br>
 For my front-end project, I undertook the challenge of replicating the iconic home page of Amazon.com, the world's largest online retailer. With a focus solely on the front-end, I meticulously crafted a visually compelling clone of Amazon's home page.
 <br> <br>
