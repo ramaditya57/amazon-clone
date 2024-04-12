@@ -20,6 +20,7 @@ For my front-end project, I undertook the challenge of replicating the iconic ho
 - HTML5: Structuring the content of the home page.
 - CSS3: Styling the layout, elements, and responsive design.
 - JavaScript: Adding interactive features such as carousel sliders, and mouse less movement of items.
+
 <br> <br>
 **Challenges and Learnings:**
 <br> <br>
