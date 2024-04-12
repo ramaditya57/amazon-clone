@@ -20,7 +20,8 @@ For my front-end project, I undertook the challenge of replicating the iconic ho
 - HTML5: Structuring the content of the home page.
 - CSS3: Styling the layout, elements, and responsive design.
 - JavaScript: Adding interactive features such as carousel sliders, and mouse less movement of items.
-<br> <br>
+
+<br>
 **Challenges and Learnings:**
 <br> <br>
 Creating a faithful replica of Amazon's home page posed several challenges, including achieving pixel-perfect accuracy, and optimizing performance for fast loading times. However, overcoming these challenges allowed me to hone my front-end development skills and gain a deeper understanding of modern web design principles.
