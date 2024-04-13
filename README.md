@@ -16,7 +16,7 @@ Deals and Promotions: To emulate Amazon's emphasis on deals and promotions, I in
 Footer: Replicating Amazon's comprehensive footer, I included links to important pages such as About Us, Careers, Help, and Contact. Additionally, I integrated social media icons and other relevant links for enhanced connectivity.
 <br> <br>
 Technologies Used:
-<br> <br>
+<br>
 - HTML5: Structuring the content of the home page.
 - CSS3: Styling the layout, elements, and responsive design.
 - JavaScript: Adding interactive features such as carousel sliders, and mouse less movement of items.
