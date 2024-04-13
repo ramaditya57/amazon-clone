@@ -17,8 +17,8 @@ Footer: Replicating Amazon's comprehensive footer, I included links to important
 <br> <br>
 Technologies Used:
 <br>
-- HTML5: Structuring the content of the home page.
-- CSS3: Styling the layout, elements, and responsive design.
+- HTML: Structuring the content of the home page.
+- CSS: Styling the layout, elements, and responsive design.
 - JavaScript: Adding interactive features such as carousel sliders, and mouse less movement of items.
 
 <br>
