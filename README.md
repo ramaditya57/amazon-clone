@@ -13,7 +13,7 @@ Product Categories: Mirroring Amazon's extensive product categories, I incorpora
 <br> <br>
 Deals and Promotions: To emulate Amazon's emphasis on deals and promotions, I integrated sections highlighting current offers, best sellers, or trending products. These sections dynamically update to reflect real-time promotions, enticing users with attractive deals.
 <br> <br>
-Footer: Replicating Amazon's comprehensive footer, I included links to important pages such as About Us, Careers, Help, and Contact. Additionally, I integrated social media icons and other relevant links for enhanced connectivity.
+Footer: Replicating Amazon's comprehensive footer, I included links to important pages such as About Us, Careers, Help, Contact, Press Releases, Amazon Science, COVID-19 and Amazon, and Your Account. Additionally, I integrated social media icons and other relevant links for enhanced connectivity.
 <br> <br>
 Technologies Used:
 <br>
