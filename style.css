@@ -333,10 +333,43 @@ nav{
 }
 
 footer{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     background-color: #131921;
     color: #fff;
     padding: 20px 60px;
+}
+
+.footer-a{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.footer-first{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-second{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-first a,.footer-second a{
+    margin: 5px;
+}
+
+.footer-last{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-first a:hover,.footer-second a:hover{
+    color: #c4c4c4;
 }
